@@ -1,7 +1,7 @@
 Návod na spuštění:
 
-Vytvořte složku, ve které chcete vyvíjet. Pro vývoj je lepší použit SWL, kde 
-lze lépe nasimulovat chování souborového systému, ale lze i v adresáři Windows. 
+Vytvořte složku, ve které chcete vyvíjet. Pro vývoj je lepší použit WSL, kde 
+lze lépe nasimulovat chování souborového systému Linuxu, ale lze i v adresáři Windows. 
 
 ve vytvořené složce přes příkazovou řádku spustit:  
 `git clone https://github.com/PetrCiahotny/dev-kontejnery.git .`  
