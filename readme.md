@@ -12,10 +12,10 @@ V souboru .env je nastavení portů pro SQL, phpmyadmin a samotného webu.
 Pokud dojde ke kolizi portů s již spuštěnými službami, tak se porty musí změnit.  
 
 Kontejnery lze spustit příkazem
-`docker-container up -d`
+`docker-compose up -d`
 
 zastavit je lze pomocí příkazu  
-`docker-container down`  
+`docker-compose down`  
 nebo v Docker-desktopu.
 
 V kontejneru webu je naistalovaný midnight commander pro snazší kontrolu souborů.  
