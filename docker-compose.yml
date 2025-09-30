@@ -24,9 +24,9 @@ services:
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     ports:
-      - "${PHP_MYSQL_PORT}:80"    #this line maps your pc port to the container port
+      - "${PHP_MYSQL_PORT}:80"
     depends_on:
-      - db    #this line links this container to the db container
+      - db
 
 volumes:
   db_data:
