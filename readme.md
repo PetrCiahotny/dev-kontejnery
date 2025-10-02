@@ -1,4 +1,4 @@
-Návod na spuštění:
+# Návod na spuštění: #
 
 Vytvořte složku, ve které chcete vyvíjet. Pro vývoj je lepší použit WSL, kde 
 lze lépe nasimulovat chování souborového systému Linuxu, ale lze i v adresáři Windows. 
